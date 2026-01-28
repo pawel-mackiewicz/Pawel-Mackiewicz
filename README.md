@@ -2,7 +2,7 @@
 
 ## What I'm Up To
 
-- **Open to Opportunities:** Seeking full-time **Software Engineer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation.
+- **Open to Opportunities:** Seeking full-time **Software Developer** roles with teams that value business context, maintain high engineering standards, and build systems for long-term success. Open to relocation.
   
 - **Current Focus:** Strengthening expertise in algorithms, data structures, and system design patterns
 ---
@@ -27,8 +27,7 @@
   </p>
 </div>
 
-**Architecture:** Microservices • Event-Driven • Hexagonal • Domain-Driven Design  
-**Practices:** Test-Driven Development • Infrastructure as Code • CI/CD
+**Practices:** Test-Driven Development • Infrastructure as Code • CI/CD • DDD
 
 ---
 
@@ -73,8 +72,6 @@ Recharging by:
 - ⛰️ Hiking mountain trails
 - 🛶 Kayaking  
 - 🧖 Sauna sessions
-
-(And yes, there's usually a Sudoku puzzle nearby)
 
 ---
 
