@@ -1,5 +1,3 @@
-# Hi, I'm Paweł 👋
-
 Coding for fun.
 Coding for bread.
 
